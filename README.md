@@ -6,7 +6,7 @@
 
 # Using Maven
 
-##Generate the lexer
+## Generate the lexer
 ```
   mvn generate-sources
 ```
@@ -23,7 +23,7 @@ The jflex-maven-plugin reads the grammar src/main/jflex/example.flex and generat
    java -jar target/jflex_sample-SNAPSHOT-1.0.jar src/test/data/test.txt(or file path)
   ```
  
- #Reference:
- Please read the document in JFlex-Maven-Plugin[https://github.com/jflex-de/jflex/blob/master/jflex/examples/simple/README.md].
+ # Reference:
+ Please read the document in [JFlex-Maven-Plugin](https://github.com/jflex-de/jflex/blob/master/jflex/examples/simple/README.md).
   
   
